@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Lib_client</string>
+    <string name="et_account_hint">账号</string>
+    <string name="et_password_hint">密码</string>
+    <string name="login_admin">管理员登录</string>
+    <string name="login_stu">学生登录</string>
+    <string name="loading">请稍后...</string>
+    <string name="search">查询</string>
+    <string name="type1_search">书名</string>
+    <string name="type2_search">作者</string>
+    <string name="type3_search">出版社</string>
+    <string name="type4_search">出版时间之前</string>
+    <string name="type5_search">出版时间之后</string>
+    <string name="et_search_hint">请输入搜索词全称</string>
+    <string name="reserve_title">预订记录</string>
+    <string name="history_title">借阅历史</string>
+    <string name="person_title">个人中心</string>
+    <string name="chakan">查看</string>
+    <string name="transition_photos">transition_animation_news_photos</string>
+    <string name="share_contents">来自「江苏大学图书馆」的分享：%1$s %2$s %3$s</string>
+    <string name="share">分享</string>
+    <string name="collection">收藏</string>
+    <string name="reserve">预约</string>
+    <string name="shoucang">我的收藏</string>
+    <string name="jifen">我的积分</string>
+    <string name="ziliao">我的资料</string>
+    <string name="about">关于</string>
+    <string name="user_register">注册用户</string>
+    <string name="book_search">查询图书</string>
+    <string name="user_search">查询用户</string>
+    <string name="mobile_searh">查询出版社</string>
+    <string name="book_delete">旧书销毁</string>
+    <string name="delete">删除</string>
+    <string name="shouye">首页</string>
+</resources>

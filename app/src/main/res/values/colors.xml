@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF000000</color>
+    <color name="colorPrimaryDark">#FF000000</color>
+    <color name="colorAccent">#FF000000</color>
+    <color name="devide_line">#CBCED2</color>
+    <color name="night_one_text_color">#FFbbbbbb</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tab_original">#bbFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="toast_white">#ffffff</color>
+    <color name="toast_stroke_gray">#99d4d4d4</color>
+    <color name="main_color">#FA7C20</color>
+    <color name="light_gray">#808080</color>
+    <color name="gray">#FFbbbbbb</color>
+    <color name="transparent">#00000000</color>
+    <color name="dropdownlist_item">#CBCED2</color>
+    <color name="dropdownlist_item_press">#99d4d4d4</color>
+    <color name="dropdownlist_press">#99d4d4d4</color>
+    <color name="dropdownlist_bg">#CBCED2</color>
+    <color name="littleblue">#9931BADD</color>
+    <color name="alpha_10_black">#1A000000</color>
+    <color name="alpha_20_black">#33000000</color>
+    <color name="container_background">#EBEBEB</color>
+    <color name="primary_text_white">#deffffff</color>
+    <color name="chat_tip_color">#FFcccccc</color>
+    <color name="common_tablayout">#cbfbfbfb</color>
+    <color name="blue">#6677f1</color>
+    <color name="green">#ec2ce413</color>
+    <color name="red">#d1f62f2f</color>
+    <color name="oranage">#f8f0c106</color>
+    <color name="little_blue">#f40594f4</color>
+</resources>

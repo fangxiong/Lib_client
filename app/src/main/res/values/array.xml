@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+    name="searchtype">
+      <item>@string/type1_search</item>
+      <item>@string/type2_search</item>
+      <item>@string/type3_search</item>  
+        </string-array>
+    <declare-styleable name="CircleImageView">
+        <attr name="outCircleColor" format="color"/>
+        <attr name="outCircleWidth" format="dimension"/>
+    </declare-styleable>
+</resources>

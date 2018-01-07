@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/collection"
+        android:orderInCategory="100"
+        android:title="@string/collection"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/reserve"
+        android:orderInCategory="200"
+        android:title="@string/reserve"
+        app:showAsAction="never"/>
+
+</menu>
